@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MySQLConf>
+    <host>
+        localhost
+    </host>
+    <port>
+        3306
+    </port>
+    <user>
+        root
+    </user>
+    <passwd>
+        
+    </passwd>
+    <db>
+        stroika
+    </db>
+</MySQLConf>
