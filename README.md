@@ -1,0 +1,2 @@
+# Stroika
+PyGTK course
